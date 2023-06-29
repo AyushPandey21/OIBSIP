@@ -12,7 +12,6 @@
 3. It will need a display screen to display the user’s input and give the results. 
 4. The grid system in CSS is for the alignments of buttons on the calculator. 
 5. The additional tools you need to build a fully functional calculator include eventListeners, if-else statements, operators, loops, and so on.
-6. I also add a dark/light mode which looks good to the website.
 
 
 # Task- 2/ Tribute Page
